@@ -19,3 +19,12 @@ _//bin.dat@mbinzi1//>-embedded_
 __link.dbms -t:_:_class
 ___ </assng.to-cmd.
 ______ <cdn.mails@cloud.com/>>
+# FP2PM1
+_ast.✳️open:$:_ex.data>/bin.bin.dat@mbinzi1_;
+___ source bin; as <secure_;
+_____ order no: FSWTAJGDSS2686SF
+_______ prs.seed: diff_:<40^%^°>
+__________ amt.req: //<€175,114.00>_
+/<exe.dat_attrib:_cdn.mails@cloud.com>
+/<exe.dat_as "€175,114.00"
+_____________________________;:/<close.
