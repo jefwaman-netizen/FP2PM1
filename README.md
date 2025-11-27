@@ -54,7 +54,6 @@ _______ open docker.file
 # Executed_.
 # Matching Qrs Data via Secure link,_
 # Automating transfer via T.net_DNS
-# Please wait...
 # End of file.
-# _ metafile: Linking source data__secure link.
+# _ metafile: Secure link attained successfully. PDP.dta_+€350,228.00
 ***********************
