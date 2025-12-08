@@ -81,4 +81,8 @@ open: pos: FSWTAJGDSS2687SF
 # Bin created successfully
 # Time injected EAT: 3:33:27 Am.
 # _ transfer bar: Running 100%...^
-# _ Setting estimated request time: _/_/_.
+# _ Setting estimated request time: EAT:- 6/45/18.
+1A{FSWTAJGDSS2686SF} cond. clearance.
+1AB {FSWTAJGDSS2687SF} cond. inline.
+# Swift: inline:_ time: _/_/_.
+***********************
