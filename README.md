@@ -83,6 +83,7 @@ open: pos: FSWTAJGDSS2687SF
 # _ transfer bar: Running 100%...^
 # _ Setting estimated request time: EAT:- 6/45/18.
 1A{FSWTAJGDSS2686SF} cond. clearance.
+# Reading transfer file to Asset...
 1AB {FSWTAJGDSS2687SF} cond. inline.
-# Swift: inline:_ time: _/_/_.
+# Swift: inline:_ time:_
 ***********************
