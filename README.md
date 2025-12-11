@@ -91,7 +91,7 @@ open: pos: FSWTAJGDSS2687SF
 # 1AB {FSWTAJGDSS2687SF}:_ Validated
 # Transfer narrative compiled successfully.
 _Offloading:;- 1A{FSWTAJGDSS2686SF} | 1AB {FSWTAJGDSS2687SF}:; simultaneously to asset binance.
-# Asset target:_ 50%...^
+# Asset target:_100%...^
 # End of file.
 ***********************
 ***********************
