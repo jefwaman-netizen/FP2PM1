@@ -98,7 +98,7 @@ _Offloading:;- 1A{FSWTAJGDSS2686SF} | 1AB {FSWTAJGDSS2687SF}:; simultaneously to
          <pubDate>Monday, 15 Dec 2025 12:08:00 GMT</pubDate>
          Link__ Su_do to offload
          //c_sudo_dta.key: unimus.acc.ianmbinzi//sudo_accounts. Kind link your Su_do to offload 2:1:1. Thankyou.
- # _Offloading:;- 1A{FSWTAJGDSS2686SF} | 1AB {FSWTAJGDSS2687SF}:; synchronously to asset binance; through:-
+ # _Offloading:;- https://www.binance.com/en/my/dashboard{FSWTAJGDSS2686SF} | 1AB {FSWTAJGDSS2687SF}:; synchronously to asset binance; through:-
  _ IP: 192.168.100.5>matched
  _ Gateway: 255.255.255.11>matched
  # Setting up: scancode to offload [BIN](https://www.binance.com/en/my/dashboard). Kindly be patient.
